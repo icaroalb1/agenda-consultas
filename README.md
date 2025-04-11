@@ -18,7 +18,7 @@ Projeto desenvolvido para a disciplina de **Java Advanced**, com o objetivo de a
 
 ## 🛠 Tecnologias utilizadas
 
-- Java 17
+- Java 21
 - Spring Boot
 - Gradle
 - Spring Data JPA
@@ -33,7 +33,7 @@ Projeto desenvolvido para a disciplina de **Java Advanced**, com o objetivo de a
 ## 🔍 Como executar o projeto
 
 ### Pré-requisitos:
-- JDK 17 instalado
+- JDK 21 instalado
 - IntelliJ IDEA ou outra IDE Java
 - Git instalado
 
