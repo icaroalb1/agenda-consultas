@@ -38,6 +38,9 @@ Projeto desenvolvido para a disciplina de **Java Advanced**, com o objetivo de a
 - Git instalado
 
 ### Passos:
+- http://localhost:8080/swagger-ui/index.html#/
+
+
 ```bash
 git clone https://github.com/icaroalb1/agenda-consultas.git
 cd agenda-consultas
