@@ -1,3 +1,11 @@
+GRUPO: 
+Bianca Vitoria - RM556270
+Guilherme Paes Camargo - RM555166
+Icaro Americo - RM555131
+
+
+
+
 # 🩺 Sistema de Agenda de Consultas
 
 Projeto desenvolvido para a disciplina de **Java Advanced**, com o objetivo de aplicar conceitos de **API REST**, utilizando **Spring Boot**, **Gradle**, **JPA**, **DTO**, **Validação**, **HATEOAS** e **Swagger**.
